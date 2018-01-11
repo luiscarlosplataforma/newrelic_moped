@@ -2,6 +2,11 @@
 
 ## master (unreleased)
 
+## 1.2.0 (2018-01-11)
+
+### Improvements
+* Update to __newrelic_rpm__ 3.11 or superior (thanks @luiscarlosplataforma)
+
 ## 1.0.1 (2015-05-22)
 
 ### Updates
